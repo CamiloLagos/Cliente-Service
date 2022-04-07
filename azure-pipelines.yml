@@ -14,8 +14,6 @@ resources:
     name: CamiloLagos/AzureTemplates
     endpoint: GitHubConnect
 
-variables:
-  - template: templates/vars.yaml@templates
 
 
 stages:
